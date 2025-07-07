@@ -32,7 +32,7 @@ My name is **Thanh**, I graduated with a **Master's degree** in *Data Engineerin
 A bootcamp by DataTalks Club to learn MLOps from end to end. 
 - 🔧 Techs: IDE Eclipse, Java, POO, Git, Ubuntu 
 ---
-### 🚗 [Construction d'ecoles](https://github.com/thanhvo-uparis/project_L3AN) 
+### 🚗 [Sharepoint Application](https://github.com/thanhvo-uparis/project_L3AN) 
 Mise en place d'une plateforme web permettant d'enregistrer automatiquement sur un Sharepoint et suivre une mission
 - 🗂️ Techs: HTML/CSS, Javascript, ChartJS, Bootstrap
 - 🔧 Backend: PHP, Symfony
@@ -66,8 +66,8 @@ My portfolio.
 Here are some certifications that reinforce my data skills:
 
 - 📜 **Certificat de développeur Frontend ReactHackerRank** – *(in progress)*  
-- 📜 **Certiﬁcat de Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://certificate-link.com)  
-- 📜 **Neo4j** – [Certificate](https://certificate-link.com)  
+- 📜 **Certiﬁcat de Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
+- 📜 **Neo4j** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
 
 ---
 

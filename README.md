@@ -34,7 +34,6 @@ A bootcamp by DataTalks Club to learn MLOps from end to end.
 ---
 ### 🚗 [Sharepoint Application](https://github.com/thanhvo-uparis/project_L3AN) 
 Within the university context, I had to carry out a project in collaboration with the company Mazars.This project consists of the development of a web tool consisting in facilitating and streamlining the work employees within the Mazars audit company.The mandatory functionalities are based on the role and status of employees who are divided into junior, senior and senior associate manager depending on their activity and mission.
-Stack
 - 🗂️ Techs: HTML/CSS, Javascript, ChartJS, Bootstrap
 - 🔧 Backend: PHP, MySQL
 ---

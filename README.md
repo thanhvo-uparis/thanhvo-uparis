@@ -65,9 +65,9 @@ It's the sneaker product interface, where images can be browsed through and prod
 
 Here are some certifications that reinforce my data skills:
 
-- 📜 **Certificat de développeur Frontend ReactHackerRank** – *(in progress)*  
+- 📜 **Certificat de développeur Frontend React (HackerRank)** – *(in progress)*  
 - 📜 **Certiﬁcat de Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
-- 📜 **Neo4j** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
+- 📜 **Neo4j Graph Data Science Certification (03/2024)** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
 
 ---
 

@@ -53,7 +53,6 @@ My portfolio.
 ---
 ### 🧠 [Dog Shop]()
 Using React (React Router, React Context, UseState, UseEffect, UseNavigate, Axios,…). This is a pretty cute app with the name of a dog shop, it has a list of dogs that are retrieved from the available database, and we can add it to our cart.
-Stack
 - 🗂️ Techs: ReactJS, Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/dog-shop)
 ---

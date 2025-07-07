@@ -30,12 +30,13 @@ My name is **Thanh**, I graduated with a **Master's degree** in *Data Engineerin
 
 ### 🚗 [Construction d'ecoles](https://github.com/thanhvo-uparis/JavaAvanceProjet) 
 A bootcamp by DataTalks Club to learn MLOps from end to end. 
-- 🔧 Techs: IDE Eclipse, Java, POO, Git, Ubuntu 
+- 🔧 Techs: Java, OOP, IDE Eclipse, Git, Ubuntu 
 ---
 ### 🚗 [Sharepoint Application](https://github.com/thanhvo-uparis/project_L3AN) 
-Mise en place d'une plateforme web permettant d'enregistrer automatiquement sur un Sharepoint et suivre une mission
+Within the university context, I had to carry out a project in collaboration with the company Mazars.This project consists of the development of a web tool consisting in facilitating and streamlining the work employees within the Mazars audit company.The mandatory functionalities are based on the role and status of employees who are divided into junior, senior and senior associate manager depending on their activity and mission.
+Stack
 - 🗂️ Techs: HTML/CSS, Javascript, ChartJS, Bootstrap
-- 🔧 Backend: PHP, Symfony
+- 🔧 Backend: PHP, MySQL
 ---
 ### ⚙️ [Machine Learning Pipeline](https://github.com/thanhvo-uparis/ML_pipeline)
 A bootcamp by DataTalks Club to learn MLOps from end to end.  
@@ -51,12 +52,13 @@ My portfolio.
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/portfolio-nextjs)
 ---
 ### 🧠 [Dog Shop]()
-Đó là giao diện cửa hàng thú cưng, với nhiều chú chó dễ thương. Chúng ta có thể thêm yêu thích, thêm vào giỏ hàng,...
+Using React (React Router, React Context, UseState, UseEffect, UseNavigate, Axios,…). This is a pretty cute app with the name of a dog shop, it has a list of dogs that are retrieved from the available database, and we can add it to our cart.
+Stack
 - 🗂️ Techs: ReactJS, Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/dog-shop)
 ---
 ### 🧠 [Product Page](https://ecommerce-product-five.vercel.app/)
-Đây là giao diện sản phẩm sneakers, có hình ảnh có thể lướt qua, thông tin sản phẩm. Chúng ta có thể thêm sản phẩm vào giỏ hàng theo số lượng, xóa.
+It's the sneaker product interface, where images can be browsed through and product information is displayed. We can add products to the cart with a specified quantity and remove them as well.
 - 🗂️ Techs: ReactJS, Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/ecommerce-product)
 ---

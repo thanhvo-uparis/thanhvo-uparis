@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is **Thanh**, I graduated with a **Master's degree** in *Data Engineering* from [DSTI](https://dsti.school/fr/applied-msc-in-data-engineering-for-ai/), and in **Software Engineering** from [University of Paris Descartes](https://math-info.u-paris.fr/licence-dinformatique/parcours-informatique/), [EFREI](https://www.efrei.fr/programmes-experts/bachelor-concepteur-developpeur/?_gl=1*1hc6ia8*_up*MQ..*_ga*MTM0MDEzNTMxLjE3NTE4OTIwMzI.*_ga_15PWZ9KZCG*czE3NTE4OTIwMzEkbzEkZzEkdDE3NTE4OTIwMzEkajYwJGwwJGgyODY4NDAxNDM.), and [Ecole42 Paris](https://42.fr/).
+My name is **Thanh**, I hold a **Master's degree** in *Data Engineering* from [DSTI](https://dsti.school/fr/applied-msc-in-data-engineering-for-ai/), and a degree in **Software Engineering** from [University of Paris Descartes](https://math-info.u-paris.fr/licence-dinformatique/parcours-informatique/), [EFREI](https://www.efrei.fr/programmes-experts/bachelor-concepteur-developpeur/?_gl=1*1hc6ia8*_up*MQ..*_ga*MTM0MDEzNTMxLjE3NTE4OTIwMzI.*_ga_15PWZ9KZCG*czE3NTE4OTIwMzEkbzEkZzEkdDE3NTE4OTIwMzEkajYwJGwwJGgyODY4NDAxNDM.), and [Ecole42 Paris](https://42.fr/).
 
 ---
 
@@ -57,7 +57,7 @@ Using React (React Router, React Context, UseState, UseEffect, UseNavigate, Axio
 ---
 ### 🧠 [Product Page](https://ecommerce-product-five.vercel.app/)
 It's the sneaker product interface, where images can be browsed through and product information is displayed. We can add products to the cart with a specified quantity and remove them as well.
-- 🗂️ Techs: ReactJS, Javascript, HTML/CSS
+- 🗂️ Techs: Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/ecommerce-product)
 ---
 

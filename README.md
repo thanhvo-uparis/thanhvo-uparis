@@ -29,7 +29,7 @@ My name is **Thanh**, I graduated with a **Master's degree** in *Data Engineerin
 ## 💡 Personal Projects
 
 ### 🚗 [Construction d'ecoles](https://github.com/thanhvo-uparis/JavaAvanceProjet) 
-A bootcamp by DataTalks Club to learn MLOps from end to end. 
+This is an Object-Oriented Java project focused on graph theory. It simulates the optimal placement of schools in a community to ensure accessibility for all cities while minimizing construction costs. The goal is to develop an algorithm that determines the minimum number of schools needed using graph representations and optimization strategies.
 - 🔧 Techs: Java, OOP, IDE Eclipse, Git, Ubuntu 
 ---
 ### 🚗 [Sharepoint Application](https://github.com/thanhvo-uparis/project_L3AN) 
@@ -38,12 +38,12 @@ Within the university context, I had to carry out a project in collaboration wit
 - 🔧 Backend: PHP, MySQL
 ---
 ### ⚙️ [Machine Learning Pipeline](https://github.com/thanhvo-uparis/ML_pipeline)
-A bootcamp by DataTalks Club to learn MLOps from end to end.  
+Machine learning project aims to predict a book's average rating based on features extracted from a Goodreads dataset. By analyzing both qualitative and quantitative attributes, the model uncovers key factors that influence a book's popularity and reception.
 - 📦 Techs:
 ---
 ### ⚙️ [Data Pipeline-Project Covid Analysis](https://github.com/thanhvo-uparis/dsti_data_pipeline2)
-A bootcamp by DataTalks Club to learn MLOps from end to end.  
-- 📦 Techs: Scala, Bash Script, AWS
+This project involves building a data processing pipeline using Spark Scala to transform and analyze COVID-19 data from Brazil. The pipeline runs both locally and on AWS EMR, and generates a report by comparing the transformed dataset with the official COVID-19 statistics. 
+- 📦 Techs: Spark, Scala, Bash Script, AWS
 ---
 ### 🧠 [Portfolio](https://thanhvo.vercel.app/)
 My portfolio.  
@@ -66,7 +66,7 @@ It's the sneaker product interface, where images can be browsed through and prod
 Here are some certifications that reinforce my data skills:
 
 - 📜 **Certificat de développeur Frontend React (HackerRank)** – *(in progress)*  
-- 📜 **Certiﬁcat de Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
+- 📜 **Certificate in Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
 - 📜 **Neo4j Graph Data Science Certification (03/2024)** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
 
 ---

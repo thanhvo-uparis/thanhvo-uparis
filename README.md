@@ -2,7 +2,13 @@
 
 My name is **Thanh**, I hold a **Master's degree** in *Data Engineering* from [DSTI](https://dsti.school/fr/applied-msc-in-data-engineering-for-ai/), and a degree in **Software Engineering** from [University of Paris Descartes](https://math-info.u-paris.fr/licence-dinformatique/parcours-informatique/), [EFREI](https://www.efrei.fr/programmes-experts/bachelor-concepteur-developpeur/?_gl=1*1hc6ia8*_up*MQ..*_ga*MTM0MDEzNTMxLjE3NTE4OTIwMzI.*_ga_15PWZ9KZCG*czE3NTE4OTIwMzEkbzEkZzEkdDE3NTE4OTIwMzEkajYwJGwwJGgyODY4NDAxNDM.), and [Ecole42 Paris](https://42.fr/).
 
----
+
+## 📫 Let's Connect!
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/thanh-vo-138a631bb/)
+- 📧 Email: thanhvo.itconsultant@gmail.com
+- 📁 Portfolio: https://thanhvo.vercel.app/
+
 
 ## 🚀 Technical Stack
 
@@ -24,7 +30,6 @@ My name is **Thanh**, I hold a **Master's degree** in *Data Engineering* from [D
 - **Dashboarding**: PowerBI(DAX), PowerQuery
 - **Others**: Docker, Linux
 
----
 
 ## 💡 Personal Projects
 
@@ -59,21 +64,13 @@ Using React (React Router, React Context, UseState, UseEffect, UseNavigate, Axio
 It's the sneaker product interface, where images can be browsed through and product information is displayed. We can add products to the cart with a specified quantity and remove them as well.
 - 🗂️ Techs: Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/ecommerce-product)
----
+
 
 ## 🎓 Certificates
 
 Here are some certifications that reinforce my data skills:
-
 - 📜 **Certificat de développeur Frontend React (HackerRank)** – *(in progress)*  
 - 📜 **Certificate in Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
 - 📜 **Neo4j Graph Data Science Certification (03/2024)** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
 
 ---
-
-
-## 📫 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/thanh-vo-138a631bb/)
-- 📧 Email: thanhvo.itconsultant@gmail.com
-- 📁 Portfolio: https://thanhvo.vercel.app/
-

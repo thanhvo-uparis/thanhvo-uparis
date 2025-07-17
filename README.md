@@ -39,8 +39,9 @@ This is an Object-Oriented Java project focused on graph theory. It simulates th
 ---
 ### 🚗 [Sharepoint Application](https://github.com/thanhvo-uparis/project_L3AN) 
 Within the university context, I had to carry out a project in collaboration with the company Mazars.This project consists of the development of a web tool consisting in facilitating and streamlining the work employees within the Mazars audit company.The mandatory functionalities are based on the role and status of employees who are divided into junior, senior and senior associate manager depending on their activity and mission.
-- 🗂️ Techs: HTML/CSS, Javascript, ChartJS, Bootstrap
+- 🗂️ Front End: HTML/CSS, Javascript, ChartJS, Bootstrap
 - 🔧 Backend: PHP, MySQL
+- [Demo](https://drive.google.com/file/d/1N9m1IfuWzNmNhdDHc2yqsaUsp42T1o3D/view)
 ---
 ### ⚙️ [Machine Learning Pipeline](https://github.com/thanhvo-uparis/ML_pipeline)
 Machine learning project aims to predict a book's average rating based on features extracted from a Goodreads dataset. By analyzing both qualitative and quantitative attributes, the model uncovers key factors that influence a book's popularity and reception.
@@ -60,16 +61,16 @@ Using React (React Router, React Context, UseState, UseEffect, UseNavigate, Axio
 - 🗂️ Techs: ReactJS, Javascript, HTML/CSS
 - 🔎 [Source Code](https://github.com/thanhvo-uparis/dog-shop)
 ---
-### 🧠 [Product Page](https://ecommerce-product-five.vercel.app/)
-It's the sneaker product interface, where images can be browsed through and product information is displayed. We can add products to the cart with a specified quantity and remove them as well.
+### 🧠 [TodoList](https://todolist-phi-plum-63.vercel.app/)
+A TodoList application designed to help users manage daily tasks efficiently.
 - 🗂️ Techs: Javascript, HTML/CSS
-- 🔎 [Source Code](https://github.com/thanhvo-uparis/ecommerce-product)
+- 🔎 [Source Code](https://github.com/thanhvo-uparis/todolist)
 
 
 ## 🎓 Certificates
 
 Here are some certifications that reinforce my data skills:
-- 📜 **Certificat de développeur Frontend React (HackerRank)** – *(in progress)*  
+- 📜 **Certificate in Frontend Development with React (HackerRank)** – [Certificate](https://www.hackerrank.com/certificates/iframe/4f83661a19e0)
 - 📜 **Certificate in Data Engineering with AWS Udacity (12/2024)** – [Certificate](https://www.udacity.com/certificate/e/974666e2-ac3b-11ef-be7d-b7b6f5ab80fb)
 - 📜 **Neo4j Graph Data Science Certification (03/2024)** – [Certificate](https://graphacademy.neo4j.com/c/da9b6234-5968-47ea-afbe-08e16971777b/) 
 
